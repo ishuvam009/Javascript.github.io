@@ -45,3 +45,5 @@ console.log(findTheIndex);
 
 let joinArray = ninjas.concat(newArray);
 console.log(joinArray);
+
+console.log('Github Added');
