@@ -66,7 +66,13 @@ way('Radha','morning'); // Overwriting the default value by the arguments.
 // Returning values.
 
 const calcArea = function(radious) {
+    let area = 3.14 * radious**2;
+    return area;
     
 }
 
+calcArea(5);
 
+let rad = area;
+
+console.log(rad);
